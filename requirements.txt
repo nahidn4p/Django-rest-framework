@@ -1,0 +1,8 @@
+Django==5.2.5
+django-filter==25.1
+djangorestframework==3.16.1
+pydantic==2.11.7
+pydantic_core==2.33.2
+tzdata==2025.2
+urllib3==2.5.0
+uvicorn==0.35.0
