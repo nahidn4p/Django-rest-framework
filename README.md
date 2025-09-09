@@ -25,8 +25,8 @@ django_rest_main/
 1. **Clone the repository**
 
    ```sh
-   git clone <your-repo-url>
-   cd django_rest_main
+   git clone https://github.com/nahidn4p/Django-rest-framework.git
+   cd Django-rest-framework
    ```
 
 2. **Install dependencies**
